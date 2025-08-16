@@ -1,0 +1,1 @@
+Taller: realizar un algoritmo que organice las estructuras, listas, diccionarios, tuplas y dataframes que cada una tenga un menu crud
